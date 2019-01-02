@@ -102,7 +102,7 @@ render() {
 
         </nav>
       </Navbar>
-      <Hero backgroundImage="/assets/images/background.jpg">
+      <Hero backgroundImage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBzOBZLxTBFVjKLRJwkMHdMcWoiaezn3ti7gfyAGtKylH3_6f8Q">
         <h1>Clicky Game!</h1>
         <h2>Click on an image to earn points, but don't click on any more than once!</h2>
       </Hero>
